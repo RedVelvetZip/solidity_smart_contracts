@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity_smart_contracts/contracts/PAYMENTS/Payments_Q_flat.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity_smart_contracts/contracts/PAYMENTS/Payments_Q_flat.sol": {
+			"keccak256": "0x02ccd286e8d352d7d4c3524047cd05c87c27a3b2e35c55ca5410bbac153d62e8",
+			"urls": [
+				"bzz-raw://e3c7210ba368a7abbe88a57a6b09c32bde74a337ff2cc05efcb1512b91f2c12f",
+				"dweb:/ipfs/QmNdroBbr73T3tbof68kGAerQuLeiSJD8tYg4iMYtZrf1A"
+			]
+		}
+	},
+	"version": 1
+}

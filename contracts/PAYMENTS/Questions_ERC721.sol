@@ -1221,7 +1221,7 @@ abstract contract Ownable is Context {
 
 pragma solidity >=0.7.0 <0.9.0;
 
-contract NFT_Q is ERC721Enumerable, Ownable {
+contract Questions_ERC721 is ERC721Enumerable, Ownable {
   using Strings for uint256;
 
   string baseURI;
